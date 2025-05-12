@@ -1,0 +1,28 @@
+{
+  "slug": "elevation-escalating-from-common-to-root",
+  "title": {
+    "es": "ELEVATION - Escalando desde lo común hasta el root",
+    "us": "ELEVATION - Escalating from Common to Root"
+  },
+  "preview": "https://github.com/4GeeksAcademy/capture-flag-escalation-of-privileges/blob/main/preview.png?raw=true",
+  "solution": {
+    "us":"https://github.com/4GeeksAcademy/capture-flag-escalation-of-privileges/blob/solution/SOLUTION.md",
+    "es": "https://github.com/4GeeksAcademy/capture-flag-escalation-of-privileges/blob/solution/SOLUTION.es.md"},
+  "technologies": [
+    "cybersecurity",
+    "hydra",
+    "linux",
+    "ssh",
+    "suid",
+    "red-team",
+    "owasp-a05-security-misconfiguration",
+    "owasp-a07-identification-authentication-failures"
+  ],
+  "difficulty": "intermediate",
+  "duration": 2,
+  "projectType": "capture-the-flag",
+  "description": {
+    "es": "Accede a un sistema Linux corporativo y utiliza técnicas de fuerza bruta y escalada de privilegios para convertirte en root y acceder a una flag protegida.",
+    "us": "Access a corporate Linux system and use brute force and privilege escalation techniques to become root and retrieve a protected flag."
+  }
+}
