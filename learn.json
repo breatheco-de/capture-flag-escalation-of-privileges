@@ -4,10 +4,10 @@
     "es": "ELEVATION - Escalando desde lo común hasta el root",
     "us": "ELEVATION - Escalating from Common to Root"
   },
-  "preview": "https://github.com/4GeeksAcademy/capture-flag-escalation-of-privileges/blob/main/preview.png?raw=true",
+  "preview": "https://github.com/breatheco-de/capture-flag-escalation-of-privileges/blob/main/preview.png?raw=true",
   "solution": {
-    "us":"https://github.com/4GeeksAcademy/capture-flag-escalation-of-privileges/blob/solution/SOLUTION.md",
-    "es": "https://github.com/4GeeksAcademy/capture-flag-escalation-of-privileges/blob/solution/SOLUTION.es.md"},
+    "us":"https://github.com/breatheco-de/capture-flag-escalation-of-privileges/blob/solution/SOLUTION.md",
+    "es": "https://github.com/breatheco-de/capture-flag-escalation-of-privileges/blob/solution/SOLUTION.es.md"},
   "technologies": [
     "cybersecurity",
     "hydra",
