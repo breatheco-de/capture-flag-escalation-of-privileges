@@ -24,5 +24,13 @@
   "description": {
     "es": "Accede a un sistema Linux corporativo y utiliza técnicas de fuerza bruta y escalada de privilegios para convertirte en root y acceder a una flag protegida.",
     "us": "Access a corporate Linux system and use brute force and privilege escalation techniques to become root and retrieve a protected flag."
-  }
+  },
+  "delivery": {
+		"instructions": {
+			"us": "Paste the flag you found with format FLAG{hash}",
+			"es": "Agrega la bandera que encontraste con el formato FLAG{hash}"
+		},
+		"formats": ["flags"],
+		"quantity": 1
+	}
 }
